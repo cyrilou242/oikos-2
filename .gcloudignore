@@ -1,0 +1,18 @@
+.idea
+src/main/docker
+README.md
+.env
+# negation with wildcard * does not work
+# exclude everything except oikos-*-runner
+target/classes
+target/generated-sources
+target/generated-test-sources
+target/maven-archiver
+target/maven-status
+target/quarkus-app
+target/test-classes
+target/web-bundler
+target/build-analytics-event.json
+target/build-metrics.json
+target/oikos-*jar
+target/quarkus-artifact.properties

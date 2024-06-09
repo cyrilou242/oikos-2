@@ -1,0 +1,90 @@
+/* Teal Light scheme (Default) */
+/* Can be forced with data-theme="light" */
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+    --primary: #00897b;
+    --primary-hover: #00796b;
+    --primary-focus: rgba(0, 137, 123, 0.125);
+    --primary-inverse: #FFF;
+}
+
+/* Teal Dark scheme (Auto) */
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+        --primary: #00897b;
+        --primary-hover: #009688;
+        --primary-focus: rgba(0, 137, 123, 0.25);
+        --primary-inverse: #FFF;
+    }
+}
+
+/* Teal Dark scheme (Forced) */
+/* Enabled if forced with data-theme="dark" */
+[data-theme="dark"] {
+    --primary: #00897b;
+    --primary-hover: #009688;
+    --primary-focus: rgba(0, 137, 123, 0.25);
+    --primary-inverse: #FFF;
+}
+
+/* Teal (Common styles) */
+:root {
+    --form-element-active-border-color: var(--primary);
+    --form-element-focus-color: var(--primary-focus);
+    --switch-color: var(--primary-inverse);
+    --switch-checked-background-color: var(--primary);
+}
+
+.tasks {
+    & form {
+        margin-block-end: 0;
+    }
+
+    & input {
+        margin-bottom: 0;
+    }
+    
+    & ul {
+        margin-top: 0.5rem;
+    }
+    
+    & input.danger {
+        color: #d44f35;
+        /*fight against picocss*/
+        height: auto;
+        padding: 0;
+        border: none;
+        border-radius: 0;
+        outline: 0;
+        background-color: white;
+        box-shadow: none;
+        font-weight: normal;
+        font-size: 1rem;
+        line-height: normal;
+        text-align: left;
+        cursor: pointer;
+        transition: none;
+    }
+
+    & li {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    & li label {
+        cursor: pointer;
+    }
+
+    & .completed {
+        text-decoration-line: line-through;
+    }
+
+    & form.add-task {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        grid-template-rows: 1fr;
+        column-gap: 1em;
+    }
+}

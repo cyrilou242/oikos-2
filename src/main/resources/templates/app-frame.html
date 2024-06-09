@@ -1,0 +1,37 @@
+<!-- @import gg.jte.Content
+@import tech.catheu.oikos.server.accesscontrol.WebState
+@param Content content
+@param WebState webState
+-->
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>{#insert title}Oikos{/}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/unpoly@3.7.2/unpoly.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/unpoly@3.7.2/unpoly.min.css">
+    <!-- bundled resources in resources/web/app - eg main.css -->
+    {#bundle /}
+</head>
+<body>
+<nav class="container-fluid">
+    <ul>
+        <li><a href="/" class="contrast"><strong>Oikos</strong></a></li>
+    </ul>
+    <!-- FIXME CYRIL re-implement this -->
+    <!--
+    <ul>
+        <li><a href="/tasks" class="contrast" up-target="main">Tasks</a></li>
+        @if(webState != null && webState.sessionUser() != null)
+            <li><span>Current user: $webState.sessionUser()}</span></li>
+        @endif
+    </ul>
+     -->
+</nav>
+<main class="container">
+  {#insert content}No content here.{/}
+</main>
+</body>
+</html>

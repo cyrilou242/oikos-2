@@ -1,0 +1,57 @@
+{#include app-frame}
+{#title}Task Overview{/title}
+{#content}
+
+<div class="tasks">
+<form class="add-task"
+      method="post"
+      action="/tasks"
+      up-target=".tasks"
+      up-disable
+      up-abortable="false">
+    <input type="text"
+           placeholder="Eg: Do the groceries..."
+           name="{content.constants.formKeyDescription}"
+           required>
+  <input type="submit" value="Add item">
+</form>
+  <form method="post"
+        action="/tasks/delete-completed"
+        up-target=".task_list"
+        up-disable
+        up-abortable="false">
+    <input type="submit" class="danger" value="Clear completed tasks">
+  </form>
+  <ul class="task_list">
+    {#for task in content.tasks}
+    <li>
+      <form method="post"
+            action="/tasks/{task.id}/toggle-completion"
+            id="task-elem-{task.id}"
+            up-target="#task-elem-{task.id}"
+            up-autosubmit
+            up-watch-disable>
+        <label>
+          <input type="checkbox" name="{content.constants.formKeyCompleted}"
+                 value="{task.completed ? "false" : "true"}"
+                 {#if task.completed}
+                 checked    
+                 {/if}
+          >
+          <span class="{task.completed ? "completed" : ""}">{task.description}</span>
+        </label>
+      </form>
+      <form method="post"
+            action="/tasks/{task.id}/delete"
+            up-target=".task_list"
+            up-disable
+            up-abortable="false">
+        <input type="submit" class="danger" value="Delete">
+      </form>
+    </li>
+    {/for}
+  </ul>
+</div>
+
+{/content}
+{/include}

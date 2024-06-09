@@ -1,0 +1,179 @@
+name	description	service	nutritional_type	total_time_category	preparation_time_category	cooking_time_category	requires_watch	difficulty	is_warm	is_tupper_friendly	season_month
+riz aux carottes	recettes Louise	plat	légume, féculent	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	janvier, février, mars, avril, mai, juin, juillet, août , septembre, octobre, novembre, décembre
+pâtes aux courgettes et au citron	livre casseroles p.15	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	juin, juillet, août , septembre, octobre, novembre
+gnocchis sauce tomate	recettes Louise	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	mars, avril, mai, juin, juillet, août
+quiche au jambon	recettes MAP	plat	complet	long	rapide	moyen	FALSE	moyen	TRUE	FALSE	janvier, février, mars, avril, mai, juin, juillet, août , septembre, octobre, novembre, décembre
+quinoa avec poivrons et oignons revenus à la poêle	bonus : amandes	plat	légume, féculent	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+semoule avec poivrons et oignons revenus à la poêle		plat	légume, féculent	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+pommes de terre vapeur		plat	féculent	moyen	rapide	moyen	FALSE	facile	TRUE	FALSE	
+salade de pommes de terre		plat	féculent	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+riz aux amandes	recettes Louise	plat	féculent	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+pâtes aux champignons	champignons de Paris, shiitakés, cèpes, girolles ; possibilité de les faire à la crème	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+poêlée poivrons, haricots rouges et maïs		plat	légume, légumineuse	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+lentilles aux oignons et aux carottes	recettes Louise	plat	légumineuse, légume	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	
+salade composée de lentilles au saumon fumée	recettes Louise	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de lentilles au citron et persil	recettes Louise	plat	légumineuse	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade composée de lentilles aux tomates cerises, roquette et feta	recettes Louise	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+carottes râpées		entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+chou rouge aux noix		entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+riz au safran	recettes Louise	plat	féculent	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+salade de tomates (et oignons rouges)		entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de concombre, noix cajou, citron et coriandre	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de quinoa, radis et coriandre		entrée	féculent	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de melon		entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de bettrave, feta et noix	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade de bettrave et orange	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+semoule avec raisins et coriandre		plat	féculent	rapide	rapide	rapide	FALSE	facile	TRUE	TRUE	
+choux fleur au four		plat	légume	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	
+velouté de choux fleur	livre casseroles p. 154	plat	légume	moyen	rapide	moyen	FALSE	facile	TRUE	FALSE	
+poêlée de courgettes et aubergines avec sésame		plat	légume	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+pâtes & cordons bleus		plat	complet	rapide	rapide	rapide	FALSE	facile	TRUE	FALSE	
+salade de bettrave, maïs et pois chiche		entrée	légume, légumineuse	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+taboulé du soleil	recettes Louise	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade d'endives, pommes (noix, feta)	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+gnocchis au chorizo	recettes Louise	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+avocat en tranche		entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+pois chiches et vermicelles à la sauce tomates (avec graines)		plat	légumineuse	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+salade tomates, pois chiches, persil		entrée	légume, légumineuse	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+polenta aux champignons	livres casseroles p.72	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+polenta aux tomates cerises	livres casseroles p.92	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+polenta aux marrons		plat	féculent	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+pâtes amatriciana	recettes MAP	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+saumon fumé avec boulgur, chou blanc et pommes (raisins, aneth, citron)	livre Bouddha bowl p.42	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+poulet korma	recettes Louise ; très bon avec de la semoule	plat	viande	long	moyen	moyen	FALSE	facile	TRUE	TRUE	
+poulet pané à la pistache	livre Marabout p.34	plat	viande	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+tarte tomates mozzarella	recettes MAP	plat	légume, féculent	long	moyen	long	FALSE	facile	TRUE	FALSE	
+saumon croustillant au parmesan et tagliatelles au citron	livre Etudiants p.77	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	FALSE	
+wok de bœuf, épinards et mangue	livre Etudiants p.37	plat	complet	long	moyen	moyen	TRUE	facile	TRUE	TRUE	
+carpaccio de cabillaud avec sauce aux agrumes et graines de coriandre		entrée	poisson	rapide	rapide	rapide	FALSE	facile	FALSE	FALSE	
+poke bowl maison au thon	tomates cerises - oignon, semoule - radis, mangue, thon en conserve	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+hachis parmentier de bœuf	livre Etudiants p. 98 ou recettes Louise - peut remplacer l'agneau de la recette par du bœuf 	plat	complet	long	moyen	long	TRUE	facile	TRUE	TRUE	
+hachis parmentier de rotî de porc	variante de la recette du livre Etudiants p.98 avec un rôti de porc dans le filet préalablement cuit puis mixé et saisi dans une grosse compotée d'oignons avant de mettre au four avec la purée par-dessus	plat	viande, féculent	long	moyen	long	TRUE	facile	TRUE	TRUE	
+lasagnes au bœuf	version de Cyril à la sauce tomates et avec de la béchamel maison	plat	complet	long	moyen	long	TRUE	facile	TRUE	TRUE	
+couscous vegan	recettes Louise	plat	complet	long	moyen	long	FALSE	facile	TRUE	TRUE	
+velouté de courgettes et chataîgnes	livre casseroles p.158	plat	légume	moyen	rapide	moyen	FALSE	facile	TRUE	FALSE	
+dinde panée, poêlée de champignons et maïs cuits		plat	complet	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+velouté de céleri-rave	livre casseroles p.152 ; avec 1 pomme de terre, noisettes et persil	plat	légume	long	rapide	long	FALSE	facile	TRUE	FALSE	
+risotto aux champignons	recettes Louise	plat	complet	moyen	moyen	long	TRUE	facile	TRUE	TRUE	
+risotto aux courgettes		plat	complet	moyen	moyen	long	TRUE	facile	TRUE	TRUE	
+recette quinoa - lentilles beluga et poivrons	livres casseroles p.54	plat	légume, légumineuse	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	
+endives braisées	recette papa	plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+tarte tatin d'endives		plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+saumon papillote	recettes Louise	plat	poisson	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+crevettes à l'ail "à la papa"	recettes Louise	plat	poisson	rapide	moyen	rapide	TRUE	facile	TRUE	TRUE	
+saucisses de Francfort ou de Morteau ou de Mozère		plat	viande	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+wok de papa	recettes Louise (feuille volante) : hampe / champignon / chou chinois / carotte / oignon / cacahuète	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+pot-au-feu français à l'agneau	recettes Louise (feuille volante)	plat	complet	long	long	long	FALSE	facile	TRUE	TRUE	
+tourrain à la tomate de maman		plat	légume, féculent	long	moyen	moyen	FALSE	facile	TRUE	TRUE	
+nouilles chinoises de papa	recettes Louise (feuille volante)	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+tartine avocat - tomate - concombre	recettes Louise	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+bruschettas à la tomate	recettes Louise	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+nuggets de poisson	recettes Louise	plat	poisson	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+pâtes crevettes et poireaux	recettes Louise	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+pâtes rapide thon et crème	recettes Louise	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+viande rouge et beurre maître d'hôtel	recettes Louise	plat	viande	moyen	moyen	rapide	TRUE	facile	TRUE	FALSE	
+veau à la crème	recettes Louise ; bon avec du riz	plat	viande	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+champignons à la crème	bon avec du riz ou des pâtes ; possible inspiration : recette veau à la crème de Louise	plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+rouleau de printemps	recettes Louise	plat	légume	moyen	moyen	rapide	FALSE	facile	FALSE	TRUE	
+fajitas	recettes Louise	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+tartiflette	recettes Louise	plat	complet	long	long	long	FALSE	facile	TRUE	TRUE	
+chili con carne	recettes MAP ou Jamie Oliver	plat	complet	long	long	long	FALSE	facile	TRUE	TRUE	
+egg fried rice à la "Uncle Roger"	rice cuit de la veille / cebette ou oignon nouveau / 4 œufs / 1 petit piment / sauce soja et huile de sésame 	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+samoussa de bœuf	recettes Louise	plat	viande	long	moyen	moyen	TRUE	facile	TRUE	TRUE	
+samoussa de pommes de terre	recettes Louise (à venir) --> favoris ordi Louise	plat	féculent	long	moyen	moyen	TRUE	facile	TRUE	TRUE	
+pâtes rapide thon et crème de coco	recettes Louise	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+big pot chicken curry	recettes Louise	plat	complet	long	long	long	TRUE	facile	TRUE	TRUE	
+pommes de terre au four	coupées en rondelles très fines et avec de l'huile d'olive	plat	féculent	long	moyen	long	FALSE	facile	TRUE	TRUE	
+tian de légumes	mettre plein de légumes à cuire au four avec des herbes de provence et de l'huile d'olive ; peut éventuellement couvrir	plat	légume	long	long	long	FALSE	facile	TRUE	TRUE	
+gratin de choux fleur	recettes Louise	plat	légume, féculent	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+pommes de terre en robe des champs	et sa sauce aux herbes ; recettes Louise	plat	féculent	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+curry végétarien	recettes Louise	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+riz frit aux champignons de Paris	recettes Louise	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+soupe butternut	recettes Louise	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	FALSE	
+tarte saumon épinard et chèvre	recettes Louise	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+gratin pâtes et lardon	recettes Louise	plat	complet	rapide	rapide	moyen	FALSE	facile	TRUE	TRUE	
+purée d'aubergines	recettes Louise	plat	légume	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+poêlée pois chiches, brocoli et potimarron	recettes Louise	plat	légume, légumineuse	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+poêlée champignons, marrons et potimarron		plat	légume, légumineuse	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+empanadas	recettes Louise	plat	poisson, féculent	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+pâtes fraîches améliorées	recettes Louise : pâtes fraîches avec du fromage frais, de la sauce tomate, des tomates cerises et du basilic	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+soupe de papi	recettes Louise	plat	viande	moyen	rapide	moyen	FALSE	facile	TRUE	FALSE	
+salade composée Basque x Méditerrannée	recettes Louise ; roquette, jambon de Bayonne, tomates séchées et parmesan	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade composée nutritive et saine	recettes Louise ; mange-tout, poivron, pois-chiche, maïs	entrée	légume, légumineuse	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade composée au saumon fumée et crudités	recettes Louise ; saumon fumé, carottes et concombre en dés, salade, ciboulette, Mme Loïk, jus citron	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+entrée de poireaux et œufs 	recettes Louise	entrée	légume, œuf	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade composée œufs et champigons	recettes Louise ; avec beaucoup de persil, plus des pois chiches ou du quinoa		légume, légumineuse, œuf	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade composée poivrons et pois chiches	recettes Louise ; poivrons, pois chiches déjà cuits, oignons rouges + variante	entrée	légume, légumineuse	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+galettes bretonnes		plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+gratin de pommes de terre	recettes Louise	plat	féculent	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+curry de lentilles corail	recettes Louise	plat	complet	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+quiche allemande	recettes Louise	plat	complet	moyen	moyen	moyen	TRUE	facile	FALSE	FALSE	
+wok tofu, brocoli et noix de cajou	recettes Louise	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+salade de couscous ou variante du taboulé du soleil	recettes Louise	plat	complet	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+poulet mafé	recettes Louise	plat	viande, légume	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+burger maison et chips	recettes Louise	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	FALSE	
+moussaka	recettes Louise	plat	complet	long	long	long	TRUE	moyen	TRUE	TRUE	
+tarte fine aux légumes d'été	recettes Louise	entrée	légume	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+sardines en conserve		plat	poisson	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+maquereau en conserve		plat	poisson	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+quesadillas aux haricots rouges	livre Etudiants p.18	plat	féculent, légumineuse	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+bettrave mixée en houmous	livre Bouddha bowl p.76	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+tofu grillé, nouilles soba et shiitakés	livre Bouddha bowl p.64	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+navets, bettraves et radis noirs déglacés et mijotés		plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+boulettes de viande, sauce tomate et coriandre	recette Carrefour	plat	viande	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+semoule de choux fleur et radis		plat	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+purée de pommes de terre		plat	féculent	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+purée de pommes de terre et jambon		plat	complet	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+purée de mogettes ou haricots blancs	livre casseroles p.44	plat	légumineuse	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	
+légumes d'hiver au four	navets, radis noirs, carottes et oignons rouges au four	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+pot-au-feu veggie	livre casseroles p.88	plat	légume, féculent	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+salade d'endives, bettrave (et feta ou fromage frais)	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+salade d'endives et noix caramélisées avec miel et parmesan	recettes Louise	entrée	légume	rapide	rapide	rapide	FALSE	facile	FALSE	TRUE	
+tartine de chèvre frais	tartine chèvre frais, ail, miel et herbes de provence	plat	féculent	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+gnocchis aux noisettes	livre casseroles p.146	plat	complet	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+soupe vietnamienne	livre casseroles p.168	plat	légume, féculent	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+mijoté patates douces et coco blancs	livre casseroles p.70	plat	légume, légumineuse	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+soupe miso aux crevettes	livre Marabout p.35	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+crevettes à l'ail et riz	livre Marabout p.94	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+pâtes bolognaise		plat	complet	long	long	long	TRUE	facile	TRUE	TRUE	
+rôti de porc		plat	viande	moyen	rapide	moyen	FALSE	facile	TRUE	TRUE	
+filet mignon mariné à la sauce soja, au miel et au thym		plat	viande	moyen	moyen	rapide	FALSE	facile	TRUE	TRUE	
+velouté de butternut	livre casseroles p.150	plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+tranches de butternut rôties		plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+soupe de choux fleur											
+pulled pork et carottes rôties	livre Bouddha bowl p.24	plat	complet	long	moyen	long	TRUE	facile	TRUE	TRUE	
+ratatouille		plat	légume	long	moyen	long	TRUE	facile	TRUE	TRUE	
+maquereau frais et sauce moutarde		plat	poisson	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+sole meunière		plat	poisson	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+poisson du marché aux herbes (au four)	bar, cabillaud, dorade, dorade rose	plat	poisson	moyen	moyen	moyen	TRUE	facile	TRUE	FALSE	
+magret de canard		plat	viande	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+magret de canard, bettrave rôties et polenta crémeuse	livre Bouddha bowl p.20	plat	viande	moyen	rapide	moyen	TRUE	facile	TRUE	FALSE	
+saumon teriyaki	livre Marabout p.22	plat	poisson	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+petits pois frais		plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+haricots verts frais		plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+poulet sauté mushroom sauce "à la papa"	recettes MAP	plat	viande	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+courge farcie	recettes MAP	plat	complet	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+omelette vietnamienne	omelette avec beaucoup de persil, ciboule, huile d'arachide et petit piment	plat	œuf	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+wok poulet, brocoli et noix de cajou	livre Etudiants p.36	plat	complet	moyen	moyen	rapide	TRUE	facile	TRUE	TRUE	
+dinde panée		plat	viande	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+légumes d'été au four	livre Etudiants p. 70	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+velouté carottes et cumin	livre recettes soupes anciennes ; livre de soupes p.48	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	FALSE	
+légumes d'automne rôtis au four	5 oignons rouges, 2 poivrons jaune et rouge, 2/3 de potimarron, 3 carottes moyennes et 1 moyenne aubergine	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+légumes farcis	recette de maman	plat	légume, viande	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+dés de butternut au four	livre Bouddha bowl p.56	plat	légume	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+orecchiettes, aubergines et mozzarella	livre casseroles p.164	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+jambalaya veggie	livre casseroles p.132	plat	complet	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+légumes verts et sauce au yaourt	voir couverture livre casseroles : pdt à l'eau, petits pois, brocoli vapeur et sauce dans recettes Louise (yaourt, ciboulette, miel, moutarde)	plat	légume	moyen	moyen	moyen	TRUE	facile	TRUE	TRUE	
+mijoté pois cassés, carottes et tofu	livre casseroles p.77 ; attention ne pas prendre de tofu fumé	plat	complet	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+mijoté tofu et champignons	livre casseroles p.78 ; attention ne pas prendre de tofu fumé	plat	complet	moyen	moyen	moyen	FALSE	facile	TRUE	TRUE	
+farfalles fourme et champignons	livre casseroles p.100	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+tortelleni aux épinards, sauce tomate et ricotta	livre casseroles p.114	plat	complet	moyen	rapide	moyen	TRUE	facile	TRUE	TRUE	
+tagliatelles courgettes, gorgonzola et noix	livre casseroles p.116	plat	complet	rapide	rapide	rapide	TRUE	facile	TRUE	TRUE	
+bricks à l'œuf		plat	poisson, œuf, féculent	rapide	rapide	rapide	TRUE	facile	TRUE	FALSE	
+velouté maïs et poivrons	livre casseroles p.156										
+chou, champignon et caviar d'aubergines maison	livre assiettes p.42	plat	légume								
+bœuf sauté, sauce soja, miel et compotée d'oignons		plat	viande								
+pâtes saumon fumé, crème fraîche et aneth											
+croque monsieur											
+porc au caramel											
+endives au jambon											

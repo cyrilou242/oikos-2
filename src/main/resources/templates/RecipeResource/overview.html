@@ -1,0 +1,26 @@
+{#include app-frame}
+{#title}Task Overview{/title}
+{#content}
+<div class="recipes">
+<table>
+<thead>
+<tr>
+  <td>Name</td>
+  <td>Type</td>
+  <td>Temps</td>
+</tr>
+</thead>
+<tbody>
+{#for recipe in content.recipes}
+<tr>
+  <td>{recipe.name}</td>
+  <td>{recipe.commaSepNutritionTypes}</td>
+  <td>{recipe.totalTimeCategory}</td>
+</tr>
+{/for}
+</tbody>
+
+</table>
+</div>
+{/content}
+{/include}
